@@ -8,3 +8,5 @@ reinforcement learning agent which can aid efficient landing of rocket boosters.
 
 This project is a terraform project. You will also require a credentials.json file which
 contains the credentials if you're looking to build infrastructure from your local machine.
+
+![alt text](https://raw.githubusercontent.com/codeBehindMe/heraion/master/batchjobarchitecture.png)
