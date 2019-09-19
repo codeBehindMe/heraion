@@ -1,6 +1,6 @@
 variable "target_project" {
   type = string
-  default = "krobo-lander"
+  default = "krobolander"
 }
 variable "default_region" {
   type = string
