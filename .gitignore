@@ -1,2 +1,5 @@
 .idea/
 credentials.json
+*.tfstate
+.terraform/
+terraform.tfstate.backup
